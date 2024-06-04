@@ -19,7 +19,7 @@
 
 ### Outros
 
-- [Website](https://www.celconeto.dev.br/)
+- [celconeto.dev.br](https://www.celconeto.dev.br/)
 
 ## Atividades de aprendizagem
 
